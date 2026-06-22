@@ -1,0 +1,1 @@
+45 years old, married to my wife Katherine for 23 years. We have two children, ages 19 and 22. Oldest is active military, married, and a newborn little boy. Youngest is currently trying to figure out what she wants out of life. We have 4 dogs and two cats. 
