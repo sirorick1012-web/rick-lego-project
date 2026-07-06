@@ -12,7 +12,7 @@ Welcome to the wonderful world of Lego. This is one of the passions of mine that
 **- [[lego-ideas-4/index|IDEAS]]**
 **- [[lego-city-5/index|CITY]]**
 **- [[lego-technic-6/index|TECHNIC]]**
-**- [[lego-cmf-7/index|CMF]]**
+**- [[index-cmf-7|CMF]]**
 
 ### Obsidian (free)
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lego-icon-1/index.md",
+                "file": "lego-cmf-7/Looney-Tunes-CMF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Looney-Tunes-CMF"
             }
           },
           {
@@ -195,18 +195,30 @@
   },
   "active": "b49e510c360f5a9b",
   "lastOpenFiles": [
-    "lego-ucs-3/index.md",
+    "lego-cmf-7/Lego-Batman-Movie-CMF.md",
+    "lego-cmf-7/Disney-100-CMF.md",
+    "lego-cmf-7/DC-CMF.md",
+    "lego-cmf-7/Series-CMF.md",
+    "lego-cmf-7/index-cmf-7.md",
+    "lego-cmf-7/Looney-Tunes-CMF.md",
     "lego-icon-1/index.md",
+    "lego-cmf-7/marvel-cmf",
+    "cmf 1.jpeg",
+    "cmf.jpg.md",
+    "cmf.jpeg",
+    "example-category-01/index.md",
+    "example-category-02/index.md",
+    "example-folder-01/Example doc 02.md",
+    "example-folder-02/Example doc 03.md",
+    "Untitled.base",
+    "lego-ucs-3/index.md",
     "lego-city-5/index.md",
     "Wonderful World of Lego.md",
     "lego-speed-champion-2/index.md",
-    "example-category-01/index.md",
     "Example doc 01.md",
     "lego-technic-6/index.md",
     "lego-ideas-4/index.md",
-    "lego-cmf-7/index.md",
     "lego-speed-champion-2",
-    "example-folder-02/Example doc 03.md",
     "lego-cmf-7",
     "lego-technic-6",
     "lego-city-5",
@@ -214,19 +226,12 @@
     "lego-ucs-3",
     "2",
     "lego-icon-1",
-    "example-folder-01/Example doc 02.md",
     "lego-icon-01/index.md",
     "lego-cmf/index.md",
-    "lego-cmf",
     "lego-technic-06/index.md",
-    "lego-technic-06",
     "lego-/index.md",
     "lego-city-05/index.md",
     "lego-ideas-04/index.md",
-    "lego-ucs-03/index.md",
-    "lego-speed champions-02/index.md",
-    "example-category-02/index 1.md",
-    "example-category-02/index.md",
-    "About Rick.md"
+    "lego-ucs-03/index.md"
   ]
 }
