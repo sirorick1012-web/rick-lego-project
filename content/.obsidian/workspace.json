@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lego-cmf-7/Looney-Tunes-CMF.md",
+                "file": "org-system-analysis.md/org-system.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Looney-Tunes-CMF"
+              "title": "org-system"
             }
           },
           {
@@ -193,14 +193,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "b49e510c360f5a9b",
+  "active": "9b1ca510dd8728e8",
   "lastOpenFiles": [
+    "About Rick.md",
+    "org-system-analysis.md/org-system.md",
+    "lego-cmf-7/Looney-Tunes-CMF.md",
+    "org-system-analysis.md",
     "lego-cmf-7/Lego-Batman-Movie-CMF.md",
     "lego-cmf-7/Disney-100-CMF.md",
     "lego-cmf-7/DC-CMF.md",
     "lego-cmf-7/Series-CMF.md",
     "lego-cmf-7/index-cmf-7.md",
-    "lego-cmf-7/Looney-Tunes-CMF.md",
     "lego-icon-1/index.md",
     "lego-cmf-7/marvel-cmf",
     "cmf 1.jpeg",
@@ -229,9 +232,6 @@
     "lego-icon-01/index.md",
     "lego-cmf/index.md",
     "lego-technic-06/index.md",
-    "lego-/index.md",
-    "lego-city-05/index.md",
-    "lego-ideas-04/index.md",
-    "lego-ucs-03/index.md"
+    "lego-/index.md"
   ]
 }
